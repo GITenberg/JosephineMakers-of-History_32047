@@ -1,0 +1,33 @@
+_repo: JosephineMakers-of-History_32047
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abbott, John S. C. (John Stevens Cabot)
+    aliases:
+    - Abbott, John Stevens Cabot
+    - John S. C. (John Stevens Cabot) Abbott
+    birthdate: 1805
+    deathdate: 1877
+    gutenberg_agent_id: '1298'
+    url: http://www.gutenberg.org/2009/agents/1298
+    wikipedia: http://en.wikipedia.org/wiki/John_Stevens_Cabot_Abbott
+description: ''
+gutenberg_issued: '2010-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32047'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Josephine, Empress, consort of Napoleon I, Emperor of the French, 1763-1814'
+- !lcsh 'Napoleon I, Emperor of the French, 1769-1821 -- Marriage'
+- !lcc 'DC'
+title: 'Josephine
+
+  Makers of History'
+url: http://www.gutenberg.org/ebooks/32047
